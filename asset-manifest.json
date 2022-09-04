@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jinapp-public/static/css/main.71c3f94c.css",
-    "main.js": "/jinapp-public/static/js/main.16a75953.js",
+    "main.js": "/jinapp-public/static/js/main.e4a7fe33.js",
     "index.html": "/jinapp-public/index.html",
     "main.71c3f94c.css.map": "/jinapp-public/static/css/main.71c3f94c.css.map",
-    "main.16a75953.js.map": "/jinapp-public/static/js/main.16a75953.js.map"
+    "main.e4a7fe33.js.map": "/jinapp-public/static/js/main.e4a7fe33.js.map"
   },
   "entrypoints": [
     "static/css/main.71c3f94c.css",
-    "static/js/main.16a75953.js"
+    "static/js/main.e4a7fe33.js"
   ]
 }
